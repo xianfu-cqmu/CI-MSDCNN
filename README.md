@@ -1,4 +1,4 @@
-# metabolic-dark-matter  
+# metabolic-CI-MSDCNN 
 
 本项目提供MDC-PPPCNet模型训练与测试  
 
